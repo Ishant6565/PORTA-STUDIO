@@ -13,6 +13,12 @@ const sites: Site[] = [
   { number: '03', name: 'Ethan Clark', description: 'Minimal designer portfolio with expressive interactions.', url: 'https://ethanclark.framer.ai/' },
   { number: '04', name: 'Campione', description: 'Bold portfolio template for photographers and artists.', url: 'https://ovo-campione.framer.website/' },
   { number: '05', name: 'Porta', description: 'Minimalist premium portfolio for studios and creatives.', url: 'https://porta.framer.ai/' },
+  { number: '06', name: 'Bookshelf', description: 'A reading journal for tracking books, ratings, and notes.', url: 'https://shelfofbooks.framer.website/' },
+  { number: '07', name: 'Detailed Car Care', description: 'Dark luxury website for car detailing studios.', url: 'https://detailed-template.framer.website/' },
+  { number: '08', name: 'Rentco', description: 'Premium car rental and vehicle booking experience.', url: 'https://rentcar.framer.website/' },
+  { number: '09', name: 'Elian Valen', description: 'Contemporary fashion collections from London.', url: 'https://elianvalen.framer.website/' },
+  { number: '10', name: 'CAR DEALER', description: 'Complete car dealership website and inventory showcase.', url: 'https://car-dealership.framer.website/' },
+  { number: '11', name: 'Vitrex', description: 'Continuous-scroll glass portfolio with refractive cards.', url: 'https://vitrex.framer.website/' },
 ]
 
 function App() {
