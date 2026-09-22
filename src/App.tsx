@@ -26,12 +26,12 @@ function App() {
     <main className="directory">
       <header className="directory-header">
         <p className="eyebrow">Framer collection / 2026</p>
-        <span className="status">Five live websites <i /></span>
+        <span className="status">Eleven live websites <i /></span>
       </header>
       <section className="intro">
         <p className="eyebrow">Published Framer sites</p>
         <h1>Choose a<br /><em>website.</em></h1>
-        <p className="intro-copy">Explore the five published Framer templates in this collection. Open any site to view the complete live experience.</p>
+        <p className="intro-copy">Explore the eleven published Framer templates in this collection. Open any site to view the complete live experience.</p>
       </section>
       <section className="site-list" aria-label="Published Framer websites">
         {sites.map((site) => (
