@@ -16,14 +16,14 @@ npm run build
 npm run preview
 ```
 
-The project is designed for deployment on GitHub Pages, Vercel, or Netlify. Project imagery currently uses remote, legally usable placeholder assets; replace them with licensed brand assets in `src/App.tsx` before publishing.
+The project is deployed on Vercel at https://porta-studio-six.vercel.app/. Project imagery currently uses remote, legally usable placeholder assets; replace them with licensed brand assets in `src/App.tsx` before publishing.
 
 ## Template routes
 
-- `/PORTA-STUDIO/#/bureau-nine`
-- `/PORTA-STUDIO/#/operator-01`
-- `/PORTA-STUDIO/#/ethan-clark`
-- `/PORTA-STUDIO/#/campione`
-- `/PORTA-STUDIO/#/porta`
+- https://porta-studio-six.vercel.app/#/bureau-nine
+- https://porta-studio-six.vercel.app/#/operator-01
+- https://porta-studio-six.vercel.app/#/ethan-clark
+- https://porta-studio-six.vercel.app/#/campione
+- https://porta-studio-six.vercel.app/#/porta
 
-The GitHub Actions workflow deploys the `dist` folder to GitHub Pages after every push to `main`.
+The GitHub Actions workflow builds the site. GitHub Pages deployment requires enabling Pages with `GitHub Actions` as the source in repository Settings > Pages.
