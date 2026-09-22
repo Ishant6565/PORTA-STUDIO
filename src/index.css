@@ -1,0 +1,5 @@
+:root { font-synthesis:none; text-rendering:optimizeLegibility; -webkit-font-smoothing:antialiased; }
+html { scroll-behavior:smooth; }
+body { margin:0; min-width:320px; overflow-x:hidden; }
+button,a { font:inherit; color:inherit; }
+a { text-decoration:none; }
